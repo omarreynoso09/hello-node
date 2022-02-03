@@ -1,13 +1,8 @@
-console.log ("helloooooo");
-
-let person = "fred";
-let person2 = "todd";
-let people  = person + " and " + person2;
-
-console.log (people);
+console.log ("helloooooo world");
 
 
-let x = 5;
-let y = 10;
-let sum = x+y ; 
-console.log("the sum of both number is "+ sum);
+console.log ("HH   HH        lll lll                                  lll      dd !!!");
+console.log("HH   HH   eee  lll lll  oooo   ww      ww  oooo  rrrr   lll      dd !!!");
+console.log("HHHHHHH ee   e lll lll oo  oo  ww      ww oo  oo rrrr  lll  dddddd !!!");
+console.log("HH   HH eeeee  lll lll oo  oo   ww ww ww  oo  oo rr     lll dd   dd");
+console.log("HH   HH  eeeee lll lll  oooo     ww  ww    oooo  rr     lll  dddddd !!!") ;    
